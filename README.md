@@ -50,12 +50,12 @@ pip install -r requirements.txt
 
 ## How to Run
 - Clone the repo:
-git clone https://github.com/your-username/EV-ML-Range-Predictor.git
+git clone https://github.com/your-username/EV-Drive-Range-Predictor.git
 
 - Navigate to the folder:
-cd EV-ML-Range-Predictor
+cd Notebooks
 
-- Open ev_range_predictor.ipynb and run all cells.
+- Open and run all cells of all three files in order.
 
 
 
