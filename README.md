@@ -2,6 +2,11 @@
 
 This project uses various Machine Learning models to predict the **range of Electric Vehicles (EVs)** based on input features like battery capacity, vehicle weight, and other technical specifications.
 
+---
+
+## Dataset Used
+
+The dataset used was downloaded from kaggle: https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025
 
 ---
 
