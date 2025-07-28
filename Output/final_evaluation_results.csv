@@ -1,0 +1,13 @@
+Model,R2 Score,MAE
+Linear Regression,0.8983,23.2267
+Ridge Regression,0.8999,23.0468
+Lasso Regression,0.9,23.1564
+Bayesian Ridge,0.8993,23.1035
+KNN Regressor,0.8487,25.2861
+Decision Tree,0.856,25.3851
+Random Forest,0.9128,19.6996
+Gradient Boosting,0.9223,18.3074
+XGBoost,0.9258,17.9982
+LightGBM,0.9137,19.9921
+CatBoost,0.9209,18.3418
+Support Vector Regressor,0.8905,23.2513
