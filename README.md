@@ -59,7 +59,6 @@ cd EV-ML-Range-Predictor
 
 
 
-
-Future Work
+## Future Work
 - Deploy model with a web interface using Streamlit or Flask
 - Incorporate real-time data or IoT integration
