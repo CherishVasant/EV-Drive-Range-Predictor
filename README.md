@@ -45,9 +45,10 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+---
 
-
-How to Run
+## How to Run
 - Clone the repo:
 git clone https://github.com/your-username/EV-ML-Range-Predictor.git
 
