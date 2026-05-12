@@ -10,7 +10,7 @@ The dataset used was downloaded from kaggle: https://www.kaggle.com/datasets/urv
 
 ---
 
-## 🚀 Objectives
+## Objectives
 
 - Apply and compare multiple **regression algorithms** for EV range prediction.
 - Use **GridSearchCV** for **hyperparameter tuning** 🧪.
@@ -19,7 +19,7 @@ The dataset used was downloaded from kaggle: https://www.kaggle.com/datasets/urv
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 - Linear Regression
 - Decision Tree Regressor
@@ -33,18 +33,18 @@ All models are fine-tuned and evaluated on a separate **test set**.
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 Each model is evaluated using:
 
-- **R² Score** (`r2_score`) 📈
-- **Mean Absolute Error** (`mean_absolute_error`) 📉
+- **R² Score** (`r2_score`) 
+- **Mean Absolute Error** (`mean_absolute_error`) 
 
 Final evaluation is stored and printed for comparison.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install the dependencies using:
 
