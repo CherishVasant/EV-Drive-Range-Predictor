@@ -1,4 +1,4 @@
-# 🔋 Electric Vehicle Range Prediction using Machine Learning 🚗📊
+# Electric Vehicle Range Prediction using Machine Learning 
 
 This project uses various Machine Learning models to predict the **range of Electric Vehicles (EVs)** based on input features like battery capacity, vehicle weight, and other technical specifications.
 
